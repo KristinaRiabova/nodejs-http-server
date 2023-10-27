@@ -1,0 +1,75 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "firstName": "J",
+        "lastName": "M",
+        "status": "Active",
+        "friends": [2, 3, 4]
+      },
+      {
+        "id": 2,
+        "firstName": "J",
+        "lastName": "K",
+        "status": "Active",
+        "friends": [1, 3]
+      },
+      {
+        "id": 3,
+        "firstName": "NewUser",
+        "lastName": "NewLastName",
+        "status": "Active",
+        "friends": []
+      },
+      {
+        "id": 4,
+        "firstName": "A",
+        "lastName": "M",
+        "status": "Active",
+        "friends": [1]
+      },
+      {
+        "id": 5,
+        "firstName": "Bob",
+        "lastName": "Brown",
+        "status": "Active",
+        "friends": [1, 2]
+      },
+      {
+        "id": 6,
+        "firstName": "Eva",
+        "lastName": "Wilson",
+        "status": "Active",
+        "friends": [2, 4]
+      },
+      {
+        "id": 7,
+        "firstName": "Mike",
+        "lastName": "Miller",
+        "status": "Active",
+        "friends": [1, 5]
+      },
+      {
+        "id": 8,
+        "firstName": "Sarah",
+        "lastName": "White",
+        "status": "Active",
+        "friends": [6, 7]
+      },
+      {
+        "id": 9,
+        "firstName": "Tom",
+        "lastName": "Davis",
+        "status": "Active",
+        "friends": [5, 8]
+      },
+      {
+        "id": 10,
+        "firstName": "Olivia",
+        "lastName": "Martinez",
+        "status": "Active",
+        "friends": [2, 9]
+      }
+    ]
+  }
+  
